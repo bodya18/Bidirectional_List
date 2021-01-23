@@ -1,0 +1,2 @@
+D:\My proects\Bidirectional list\Debug\Bidirectional list.exe
+D:\My proects\Bidirectional list\Debug\Bidirectional list.pdb
